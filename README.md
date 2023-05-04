@@ -1,2 +1,20 @@
 # Smart_Draw
-This Repository contains the source code for Smart Draw application. The purpose of building Smart Draw is to be able to draw on a screen moitor/projector without the need of having a Smart Board. This tool is capable of drawing on the screen using only a camera.
+
+## What?
+The aim of Smart Draw is to provide the experience of a Smart Board without the need of having one. 
+
+## Why?
+Smart Draw can be used to draw on the projector screen/normal screen by making some hand gestures. SmartDraw save the cost having an actual smart board.
+
+## Who?
+Although it can be used by anyone it is mainly developed for free educational institutes(NGOs). It would help them in saving cost associated with a smart board. They ony need a projector and a camera.
+
+## How?
+Smart Draw makes use of YoloV4 to detect Hand Gestures and DeepSORT to track user's hand. 
+
+First the YoloV4 model will detect Hand Gestures in the video frame and then pass it to the DeepSORT algorithm to track the hand and draw on the screen.
+
+## Installation:
+* Clone this Repository using ``` git clone https://github.com/Pratham-Pandey/Tomato-Disease-Detection.git ``` .
+* Install "requirements.txt" using: ``` pip install -r requirements.txt ``` .
+* Run "draw_custom_object_tracker.py".
