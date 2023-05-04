@@ -14,6 +14,11 @@ Smart Draw makes use of YoloV4 to detect Hand Gestures and DeepSORT to track use
 
 First the YoloV4 model will detect Hand Gestures in the video frame and then pass it to the DeepSORT algorithm to track the hand and draw on the screen.
 
+## Demo:
+
+![custom_neural_network](https://github.com/Pratham-Pandey/Smart_Draw/blob/main/resource/bg8.jpg)
+
+
 ## Installation:
 * Clone this Repository using ``` git clone https://github.com/Pratham-Pandey/Tomato-Disease-Detection.git ``` .
 * Install "requirements.txt" using: ``` pip install -r requirements.txt ``` .
