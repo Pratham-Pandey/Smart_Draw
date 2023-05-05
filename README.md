@@ -24,7 +24,7 @@ First the YoloV4 model will detect Hand Gestures in the video frame and then pas
 
 ## Demo:
 
-![custom_neural_network](https://github.com/Pratham-Pandey/Smart_Draw/blob/main/resource/bg8.jpg)
+![demo](https://github.com/Pratham-Pandey/Smart_Draw/blob/main/resource/bg8.jpg)
 
 
 ## Installation:
