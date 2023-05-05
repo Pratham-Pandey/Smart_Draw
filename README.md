@@ -28,6 +28,6 @@ First the YoloV4 model will detect Hand Gestures in the video frame and then pas
 
 
 ## Installation:
-* Clone this Repository using ``` git clone https://github.com/Pratham-Pandey/Tomato-Disease-Detection.git ``` .
+* Clone this Repository using ``` https://github.com/Pratham-Pandey/Smart_Draw.git ``` .
 * Install "requirements.txt" using: ``` pip install -r requirements.txt ``` .
 * Run "draw_custom_object_tracker.py".
