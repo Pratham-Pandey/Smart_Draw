@@ -19,7 +19,7 @@ First the YoloV4 model will detect Hand Gestures in the video frame and then pas
 ![draw](https://github.com/Pratham-Pandey/Smart_Draw/blob/main/resource/draw.jpg)
 
 
-## To Erase:
+### To Erase:
 ![erase](https://github.com/Pratham-Pandey/Smart_Draw/blob/main/resource/erase.jpg)
 
 ## Demo:
